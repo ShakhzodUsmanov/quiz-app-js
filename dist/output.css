@@ -762,6 +762,14 @@ video {
   border-radius: 22px;
 }
 
+.rounded-top {
+  border-radius: 22px 22px 0 0;
+}
+
+.rounded-bottom {
+  border-radius: 0 0 22px 22px;
+}
+
 .border-b-\[1px\] {
   border-bottom-width: 1px;
 }

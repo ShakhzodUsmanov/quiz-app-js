@@ -12,9 +12,9 @@
   </head>
   <body>
     <!-- Quiz Container -->
-    <div class="p-5 m-5 bg-bgColor">
+    <div class="p-5 m-5 bg-bgColor rounded-external">
       <!-- Quiz Info -->
-      <section class="flex flex-col md:flex-row gap-2 bg-white p-5">
+      <section class="flex flex-col md:flex-row gap-2 bg-white p-5 rounded-internal">
         <div class="flex-1">
           category:<span class="pl-1 font-bold category">HTML</span>
         </div>
@@ -24,20 +24,20 @@
       </section>
       <!-- Quiz Area -->
       <section
-        class="quiz-area bg-white p-5 mt-5 font-bold text-lg md:text-3xl"
+        class="quiz-area bg-white p-5 mt-5 font-bold text-lg md:text-3xl rounded-top"
       ></section>
       <!-- Asnwers Area -->
-      <section class="answers-area bg-white p-5 pt-0"></section>
+      <section class="answers-area bg-white p-5 pt-0 rounded-bottom"></section>
       <!-- Submit Btn -->
       <button class="submit-btn">Submit Answer</button>
       <!-- Bulltes & timer -->
       <section
-        class="bullet-timer border-t-[1px] border-[#dfdfdf] p-5 bg-white flex flex-col gap-3 md:gap-0 md:flex-row"
+        class="bullet-timer border-t-[1px] border-[#dfdfdf] p-5 bg-white flex flex-col gap-3 md:gap-0 md:flex-row rounded-internal"
       >
         <div class="bullets-container flex-1 flex flex-wrap gap-2"></div>
         <div class="count-down text-right"></div>
       </section>
-      <div class="reults-container"></div>
+      <div class="reults-container rounded-internal"></div>
     </div>
     <script src="./quiz.js"></script>
   </body>
