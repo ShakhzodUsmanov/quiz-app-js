@@ -1,0 +1,122 @@
+[
+  {
+    "title": "What is the latest stable version of Python?",
+    "answer_1": "Python 3.7",
+    "answer_2": "Python 3.8",
+    "answer_3": "Python 3.9",
+    "answer_4": "Python 3.10",
+    "right_answer": "Python 3.10"
+  },
+  {
+    "title": "Which keyword is used to define a function in Python?",
+    "answer_1": "def",
+    "answer_2": "function",
+    "answer_3": "define",
+    "answer_4": "funct",
+    "right_answer": "def"
+  },
+  {
+    "title": "What does the 'self' keyword represent in a class?",
+    "answer_1": "Instance",
+    "answer_2": "Class",
+    "answer_3": "Method",
+    "answer_4": "Object",
+    "right_answer": "Instance"
+  },
+  {
+    "title": "How do you open a file in Python for reading?",
+    "answer_1": "open_file('filename', 'r')",
+    "answer_2": "file_open('filename', 'read')",
+    "answer_3": "open('filename', 'read')",
+    "answer_4": "open('filename', 'r')",
+    "right_answer": "open('filename', 'r')"
+  },
+  {
+    "title": "What is the purpose of the 'if __name__ == '__main__':' statement in Python?",
+    "answer_1": "Defines a class",
+    "answer_2": "Checks if a function is defined",
+    "answer_3": "Executes code only if the script is run as the main program",
+    "answer_4": "Creates an instance of a class",
+    "right_answer": "Executes code only if the script is run as the main program"
+  },
+  {
+    "title": "Which module is used for regular expressions in Python?",
+    "answer_1": "regex",
+    "answer_2": "re",
+    "answer_3": "regexpy",
+    "answer_4": "string",
+    "right_answer": "re"
+  },
+  {
+    "title": "What is the output of 'print(3 * 'abc')' in Python?",
+    "answer_1": "9",
+    "answer_2": "'abcabcabc'",
+    "answer_3": "TypeError",
+    "answer_4": "'abc abc abc'",
+    "right_answer": "'abcabcabc'"
+  },
+  {
+    "title": "How do you comment multiple lines in Python?",
+    "answer_1": "# This is a comment",
+    "answer_2": "/* This is a comment */",
+    "answer_3": "''' This is a comment '''",
+    "answer_4": "// This is a comment",
+    "right_answer": "''' This is a comment '''"
+  },
+  {
+    "title": "Which of the following is not a valid data type in Python?",
+    "answer_1": "int",
+    "answer_2": "char",
+    "answer_3": "float",
+    "answer_4": "str",
+    "right_answer": "char"
+  },
+  {
+    "title": "How can you convert a string to uppercase in Python?",
+    "answer_1": "str.toUpper()",
+    "answer_2": "string.upper()",
+    "answer_3": "str.uppercase()",
+    "answer_4": "string.toUpper()",
+    "right_answer": "string.upper()"
+  },
+  {
+    "title": "What is the purpose of the 'pass' statement in Python?",
+    "answer_1": "Exits the program",
+    "answer_2": "Skips the current block of code",
+    "answer_3": "Defines a function",
+    "answer_4": "Prints a message",
+    "right_answer": "Skips the current block of code"
+  },
+  {
+    "title": "Which module is used for working with dates and times in Python?",
+    "answer_1": "datetime",
+    "answer_2": "time",
+    "answer_3": "date",
+    "answer_4": "calendar",
+    "right_answer": "datetime"
+  },
+  {
+    "title": "What is the result of '10 / 2' in Python?",
+    "answer_1": "5.0",
+    "answer_2": "5",
+    "answer_3": "2.0",
+    "answer_4": "2",
+    "right_answer": "5.0"
+  },
+  {
+    "title": "How do you import a module named 'mymodule' in Python?",
+    "answer_1": "import mymodule",
+    "answer_2": "include mymodule",
+    "answer_3": "import module(mymodule)",
+    "answer_4": "require mymodule",
+    "right_answer": "import mymodule"
+  },
+  {
+    "title": "Which statement is used for exiting a loop prematurely in Python?",
+    "answer_1": "break",
+    "answer_2": "exit",
+    "answer_3": "stop",
+    "answer_4": "end",
+    "right_answer": "break"
+  }
+]
